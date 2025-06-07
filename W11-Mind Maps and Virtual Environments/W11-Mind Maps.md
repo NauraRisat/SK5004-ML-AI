@@ -1,3 +1,4 @@
+'''mermaid
 mindmap
   root((Stellar Nucleosynthesis))
     Processes
