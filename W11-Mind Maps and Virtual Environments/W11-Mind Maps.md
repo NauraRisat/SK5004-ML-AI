@@ -1,4 +1,7 @@
-'''mermaid
+## Mind Map
+This mind map explores Stellar Nucleosynthesis, the set of physical processes by which stars produce chemical elements through nuclear fusion and explosive events.
+
+```mermaid
 mindmap
   root((Stellar Nucleosynthesis))
     Processes
@@ -14,9 +17,6 @@ mindmap
         Rapid Neutron Capture (r-process)
         Slow Neutron Capture (s-process)
         Explosive Burning
-      Cosmic Ray Spallation
-        Light Element Formation
-        Li-Be-B Production
     Sites
       Main Sequence Stars
         Hydrogen Burning
@@ -36,9 +36,6 @@ mindmap
       Meteoritic Analysis
         Presolar Grains
         Isotopic Ratios
-      Astroseismology
-        Internal Structure
-        Evolution Clues
     Importance
       Chemical Evolution of Universe
       Life-essential Elements
