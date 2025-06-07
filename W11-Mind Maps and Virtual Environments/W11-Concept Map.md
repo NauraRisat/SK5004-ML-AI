@@ -31,5 +31,5 @@ graph TD
     R -->|traces| S[Stellar Evolution]
     S -->|influences| U
 ```
-**Research question**: How do different processes contribute to the chemical enrichment and evolution of the Milky Way galaxy?
+**Research question**: How do different astrophysical processes contribute to the chemical enrichment and evolution of the Milky Way galaxy?
 **Results between Mind Map and Concept Map**: These two yield different purposes, thus the results are different as well. Mind maps are mainly used for brainstorming ideas meanwhile concept maps are results-oriented (useful for research questions).
